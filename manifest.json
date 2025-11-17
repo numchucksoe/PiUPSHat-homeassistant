@@ -1,0 +1,11 @@
+{
+  "domain": "piupshat",
+  "name": "PIUPSHAT API Sensors",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourname/piupshat",
+  "requirements": [],
+  "codeowners": ["@numchucksoe"],
+  "iot_class": "local_polling",
+  "config_flow": true
+}
+
